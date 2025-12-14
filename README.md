@@ -39,10 +39,13 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![boolean 3 w](https://github.com/user-attachments/assets/3b15e74d-8fdf-4210-bd74-0c434952109a)
 
 **Output:**
 
 **RTL**
+![boolean 2](https://github.com/user-attachments/assets/71a25d42-fd54-4936-9b47-236b4c0c867a)
+![boolean 1](https://github.com/user-attachments/assets/11421534-7b62-4407-8589-0d7c742f9738)
 
 **Timing Diagram**
 
